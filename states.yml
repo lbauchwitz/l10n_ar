@@ -1,0 +1,9 @@
+# Argentina
+- name: Córdoba
+  country_id: '9'
+  id: '1'
+  abbr: COR
+- name: Mendoza
+  country_id: '9'
+  id: '2'
+  abbr: MZA
